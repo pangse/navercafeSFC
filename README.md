@@ -1,8 +1,8 @@
-안녕하세요. Neo입니다.
+Hello, I'm Neo.
 
-SAP Fiori Cafe(naver cafe)를 운영하고 있습니다.
-카페에서 공유 되고 있는 Source를 확인할 수 있습니다.
+There is SAP Fiori Cafe (Naver Cafe). You can check the source being shared at the cafe.
 
-감사합니다.
+Thank you.
+
 
 https://cafe.naver.com/sapux
